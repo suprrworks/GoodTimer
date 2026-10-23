@@ -32,7 +32,7 @@
 local RunService = game:GetService("RunService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
-local Signal = require(ReplicatedStorage.Shared.Modules.Signal)
+local Signal = require(ReplicatedStorage.Signal)
 
 type Signal = typeof(Signal.new())
 
