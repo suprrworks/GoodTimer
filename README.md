@@ -1,4 +1,6 @@
-# GoodTimer-RBLX-
+
+# GoodTimer
+
 A simple and reusable countdown timer module for Roblox.
 
 # RobloxTimer
@@ -15,9 +17,9 @@ A lightweight countdown timer module for Roblox, written in Luau.
 
 ## Installation
 
-Place `Timer.luau` inside your Roblox game's ModuleScript location and make sure the required Signal module is available at:
+Place `Timer.luau` inside your Roblox game's ModuleScript location and make sure the required [GoodSignal](https://github.com/stravant/goodsignal) module is available at:
 
-`ReplicatedStorage.Shared.Modules.Signal`
+`ReplicatedStorage.Signal`
 
 ## Example
 
