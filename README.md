@@ -3,10 +3,6 @@
 
 A simple and reusable countdown timer module for Roblox.
 
-# RobloxTimer
-
-A lightweight countdown timer module for Roblox, written in Luau.
-
 ## Features
 - Start, stop, pause and resume
 - Adjustable countdown speed
